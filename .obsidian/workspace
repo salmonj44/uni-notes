@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d4405e7f730f8641",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6759e77e71c2a4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/SDAV/Week 0.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb83f4582f9c429f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50ffd5814f8d752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ad1d476671e467",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aab6978780eedfe2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f236d591213188e",
+    "type": "split",
+    "children": [
+      {
+        "id": "790bc0b39d38d42a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2233a8fffe2021e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/SDAV/Week 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc6759e77e71c2a4",
+  "lastOpenFiles": [
+    "notes/SDAV/Week 0.md",
+    "notes/SDAV/Title page - SDAV.md",
+    "notes/SMP/Title page - SMP.md",
+    "notes/SMP/Week 0.md",
+    "notes/SDAV/Untitled.md",
+    "notes/SMP/Untitled.md",
+    "notes/SMP - Week 0.md",
+    "attachments/Pasted image 20211004143731.png",
+    "attachments/Clipboard_2021-10-04-14-19-56.png",
+    "attachments/Clipboard_2021-10-04-14-10-19.png"
+  ]
+}

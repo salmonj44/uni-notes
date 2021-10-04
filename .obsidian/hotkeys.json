@@ -1,0 +1,12 @@
+{
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

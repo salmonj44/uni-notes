@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/SDAV/Week 0.md",
+            "file": "notes/SMP/Week 0.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/SDAV/Week 0.md",
+                "file": "notes/SMP/Week 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fc6759e77e71c2a4",
   "lastOpenFiles": [
-    "notes/SDAV/Week 0.md",
-    "notes/SDAV/Title page - SDAV.md",
-    "notes/SMP/Title page - SMP.md",
     "notes/SMP/Week 0.md",
+    "notes/SMP/Title page - SMP.md",
+    "notes/SDAV/Title page - SDAV.md",
+    "notes/Databases/Title page - Databases.md",
+    "notes/SDAV/Week 0.md",
     "notes/SDAV/Untitled.md",
     "notes/SMP/Untitled.md",
     "notes/SMP - Week 0.md",
     "attachments/Pasted image 20211004143731.png",
-    "attachments/Clipboard_2021-10-04-14-19-56.png",
-    "attachments/Clipboard_2021-10-04-14-10-19.png"
+    "attachments/Clipboard_2021-10-04-14-19-56.png"
   ]
 }

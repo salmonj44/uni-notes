@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/EPICDM/Week 0, module intro.md",
+            "file": "notes/EPICDM/Week 0 Seminar 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/EPICDM/Week 0, module intro.md",
+                "file": "notes/EPICDM/Week 0 Seminar 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "fc6759e77e71c2a4",
   "lastOpenFiles": [
+    "notes/EPICDM/Untitled.md",
+    "notes/EPICDM/Week 0, module intro.md",
     "notes/EPICDM/Week 0, module 0.md",
     "notes/FCP/Title page - FCP.md",
     "notes/SDAV/Title page - SDAV.md",
     "notes/SDAV/Week 0.md",
-    "notes/EPICDM/Untitled.md",
     "notes/EPICDM/Title page - EPICDM.md",
     "notes/SMP/Week 0.md",
     "notes/SMP/Title page - SMP.md",
-    "notes/Databases/Title page - Databases.md",
-    "notes/SDAV/Untitled.md"
+    "notes/Databases/Title page - Databases.md"
   ]
 }

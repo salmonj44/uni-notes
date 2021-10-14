@@ -31,3 +31,4 @@
 3. plain text in other than file system (col. slack or bad clusters, could also be a zip file - not part of the file system)
 4. encrypted data in a file
 5. encrypted data held other than in the file system OR email file (.pst/.mbox) OR steganography
+

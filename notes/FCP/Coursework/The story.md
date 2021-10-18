@@ -3,8 +3,11 @@
 # The story
 
 The Story 
--   Name 
+-   Name/identification
 	-   Faye Keide 
+	-   photo on the desktop
+	-   was all of it done on one account
+	-   was it password protected
 -   Fake IDs (for bunnies) 
 -   Also addicted to meth (but as a side gig) 
 
@@ -24,6 +27,13 @@ The Story
 -   Custom card making service 
 -   Custom PLASTIC card making servivce 
 -   Make your own custom plastic identity cards 
+-   How to hide passwords
+-   Hiding passwords in images
+-   steganography
+	-   audio
+	-   video
+	-   images
+-   
 
 ## Pen Drive? 
 
@@ -42,6 +52,7 @@ Maybe make it encrypted with the password stored in some file slack or something
 	-   Hidden in plain sight
 -   Video
 	-   Is essentially the other two combined, could be pretty tricky
+	-   https://www.sciencedirect.com/science/article/pii/S0925231218312608
 
 ## __Recycle Bin__ <-- important
 - put stuff in and delete it
@@ -81,8 +92,17 @@ Below is a screenshot of the contents of the ETL file which references files tha
 - windows  10 app is like really really good for this, but has been discontinued
 
 ## USB activity
-``HKLM\System\CurrentControlSet\Enum\USBStor`` still stores artifacts related to USB devices connected to the  computer.
+``HKLM\System\CurrentControlSet\Enum\USBStor`` still stores artifacts related to USB devices connected to the computer.
 
 ## Link files
 
 https://github.com/ged/linkparser
+
+## Registry
+ SAM File
+ System
+- store a password in the registry
+
+
+## File Splitting
+- GSplit

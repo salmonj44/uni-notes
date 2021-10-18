@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c421e0678bc83548",
-        "type": "split",
-        "children": [
-          {
-            "id": "fc6759e77e71c2a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20211015224027.png"
-              }
-            }
-          },
-          {
-            "id": "9eacb501b13cb7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/FCP/Coursework/The story.md",
-                "mode": "source"
-              }
-            }
+        "id": "9eacb501b13cb7fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/FCP/Coursework/The story.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "3f236d591213188e",
@@ -106,14 +90,14 @@
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
     "notes/FCP/Coursework/The story.md",
-    "attachments/Pasted image 20211015224027.png",
-    "attachments/Pasted image 20211015224147.png",
     "notes/FCP/Coursework/Thinking notes.md",
-    "notes/FCP/The story.md",
-    "notes/FCP/New.md",
-    "notes/FCP/Untitled.md",
     "notes/FCP/Lecture 1 lindsey.md",
     "notes/FCP/Title page - FCP.md",
-    "notes/EPICDM/Week 1, Professionals and Professionalism.md"
+    "notes/DSP/Untitled.md",
+    "notes/DSP/Title page - DSP.md",
+    "attachments/Pasted image 20211015224027.png",
+    "attachments/Pasted image 20211015224147.png",
+    "notes/FCP/The story.md",
+    "notes/FCP/New.md"
   ]
 }

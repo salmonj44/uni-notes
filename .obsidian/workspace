@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/FCP/Coursework/The story.md",
+            "file": "notes/SDAV/Analytical workflows.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
   "right": {
     "id": "3f236d591213188e",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FCP/Coursework/The story.md",
+                "file": "notes/SDAV/Analytical workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,8 @@
   },
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
+    "notes/SDAV/Analytical workflows.md",
+    "notes/SDAV/Untitled.md",
     "notes/FCP/Coursework/The story.md",
     "notes/FCP/Coursework/Thinking notes.md",
     "notes/FCP/Lecture 1 lindsey.md",
@@ -96,8 +97,6 @@
     "notes/DSP/Untitled.md",
     "notes/DSP/Title page - DSP.md",
     "attachments/Pasted image 20211015224027.png",
-    "attachments/Pasted image 20211015224147.png",
-    "notes/FCP/The story.md",
-    "notes/FCP/New.md"
+    "attachments/Pasted image 20211015224147.png"
   ]
 }

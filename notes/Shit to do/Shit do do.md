@@ -2,3 +2,6 @@
 
 - FCP VM
 - DSP
+
+
+- learn hamming codes

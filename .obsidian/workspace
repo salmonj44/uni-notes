@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/SDAV/Analytical workflows.md",
+            "file": "notes/Cryptography/Lecture 2.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 305.0121879577637
   },
   "right": {
     "id": "3f236d591213188e",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/SDAV/Analytical workflows.md",
+                "file": "notes/Cryptography/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
-    "notes/SDAV/Analytical workflows.md",
-    "notes/SDAV/Untitled.md",
-    "notes/FCP/Coursework/The story.md",
-    "notes/FCP/Coursework/Thinking notes.md",
-    "notes/FCP/Lecture 1 lindsey.md",
+    "notes/Cryptography/Lecture 2.md",
+    "notes/Cryptography/Title page - Cryptography.md",
+    "notes/SDAV/Week 0.md",
+    "notes/Shit to do/Shit do do.md",
     "notes/FCP/Title page - FCP.md",
-    "notes/DSP/Untitled.md",
-    "notes/DSP/Title page - DSP.md",
-    "attachments/Pasted image 20211015224027.png",
-    "attachments/Pasted image 20211015224147.png"
+    "notes/Cryptography/Untitled.md",
+    "notes/SDAV/Untitled.md",
+    "notes/SDAV/Analytical workflows.md",
+    "notes/FCP/Coursework/The story.md",
+    "notes/FCP/Coursework/Thinking notes.md"
   ]
 }

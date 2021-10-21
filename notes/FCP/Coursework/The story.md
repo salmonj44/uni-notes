@@ -106,3 +106,6 @@ https://github.com/ged/linkparser
 
 ## File Splitting
 - GSplit
+
+
+## Bit shifting

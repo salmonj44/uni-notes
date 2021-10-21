@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Cryptography/Lecture 2.md",
+            "file": "notes/FCP/Coursework/The Real story.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Cryptography/Lecture 2.md",
+                "file": "notes/FCP/Coursework/The Real story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
+    "notes/FCP/Coursework/The Real story.md",
+    "notes/FCP/Coursework/The story.md",
+    "notes/FCP/Coursework/Thinking notes.md",
+    "notes/FCP/Coursework/Useful links.md",
+    "notes/FCP/Lindsey lecture 2.md",
     "notes/Cryptography/Lecture 2.md",
     "notes/Cryptography/Title page - Cryptography.md",
     "notes/SDAV/Week 0.md",
     "notes/Shit to do/Shit do do.md",
-    "notes/FCP/Title page - FCP.md",
-    "notes/Cryptography/Untitled.md",
-    "notes/SDAV/Untitled.md",
-    "notes/SDAV/Analytical workflows.md",
-    "notes/FCP/Coursework/The story.md",
-    "notes/FCP/Coursework/Thinking notes.md"
+    "notes/FCP/Title page - FCP.md"
   ]
 }

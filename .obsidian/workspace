@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Shit to do/Shit do do.md",
+            "file": "notes/FCP/Coursework/The Real story.md",
             "mode": "source"
           }
         }
@@ -18,70 +18,85 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28cb007d7c180b2d",
-    "type": "mobile-drawer",
+    "id": "ee550cb604c217d4",
+    "type": "split",
     "children": [
       {
-        "id": "1d33ea233246dd96",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "92607f8f8f02f7be",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1c7be582ce33af2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8530235ccd4a0548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5767e3ec96e1c665",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "59122b87d7d5c865",
-    "type": "mobile-drawer",
+    "id": "ff596db576b6a13c",
+    "type": "split",
     "children": [
       {
-        "id": "c36f03cf3e29bae9",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "notes/Shit to do/Shit do do.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "cbe17093074d3a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7e46492ffd37c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/FCP/Coursework/The Real story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
-    "notes/Shit to do/Shit do do.md",
-    "attachments/Screenshot from 2021-10-04 16-34-20.png",
     "notes/FCP/Coursework/The Real story.md",
+    "notes/Shit to do/Shit do do.md",
     "notes/FCP/Coursework/The story.md",
     "notes/FCP/Coursework/Thinking notes.md",
-    "notes/FCP/Coursework/Useful links.md",
+    "notes/FCP/Lecture 1 lindsey.md",
     "notes/FCP/Lindsey lecture 2.md",
-    "notes/Cryptography/Lecture 2.md",
-    "notes/Cryptography/Title page - Cryptography.md",
-    "notes/SDAV/Week 0.md"
+    "notes/FCP/Title page - FCP.md",
+    "notes/SDAV/Analytical workflows.md",
+    "attachments/Screenshot from 2021-10-04 16-34-20.png",
+    "notes/FCP/Coursework/Useful links.md"
   ]
 }

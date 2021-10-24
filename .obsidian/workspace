@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/FCP/Coursework/The Real story.md",
-            "mode": "source"
+            "file": "notes/FCP/Coursework/The story.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FCP/Coursework/The Real story.md",
+                "file": "notes/FCP/Coursework/The story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "9eacb501b13cb7fa",
   "lastOpenFiles": [
-    "notes/FCP/Coursework/The Real story.md",
-    "notes/Shit to do/Shit do do.md",
     "notes/FCP/Coursework/The story.md",
+    "notes/FCP/Coursework/The Real story.md",
     "notes/FCP/Coursework/Thinking notes.md",
+    "notes/Shit to do/Shit do do.md",
     "notes/FCP/Lecture 1 lindsey.md",
     "notes/FCP/Lindsey lecture 2.md",
     "notes/FCP/Title page - FCP.md",

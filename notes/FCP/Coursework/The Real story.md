@@ -43,12 +43,15 @@ dis#FCP #Coursework
 	2. Then have the colleague reply with, oh you can use a file splitter
 	3. reply with "theres something special inside the video too, cant say too much but you get what I mean"
 		1. this links with the search for steganography
-
+------
 ### Side Quests
 
 ### Low level evidence items
  #### Level 1
  1. Text file with a mock up for a fake ID selling ad, just put in the documents folder and call it draft.txt
+#### Level 2
 
 #### Level 3
-1. 
+1. Hide a file by changing the mft (could be level 2) because its still technically in the file system
+	1. this could be done with hide and protect, but it looks liek windows 10 might not allow this, could be done under special requirements
+	2. ``fsutil volume filelayout c:\$mft`` shows the size of the mft and where it is on the disk

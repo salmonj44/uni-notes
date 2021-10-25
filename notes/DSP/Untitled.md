@@ -9,3 +9,12 @@
 - use we in the report apart from in the project evaluation section
 
 30 mins in the Viva, with a presentation and demonstration if possible.
+
+## evaluating information
+CRAAP
+
+- currency
+- relevance
+- accuracy
+- Authority
+- purpose

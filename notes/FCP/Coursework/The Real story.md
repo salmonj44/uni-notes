@@ -16,6 +16,7 @@
 9. Download Gsplit
 10. Download skype
 11. Download Veracrypt
+12. download steg program
 
 -------
 ### Set up programs
@@ -37,17 +38,18 @@
 	1.  encrypt this document and hide the password inside the stegged video file
 
 #### Gsplit
-3. Split a file and send it in an email and maybe put the two halves in the same folder and call the folder email attatchments
-	1. also steg the file before splitting to be extra mean
+3. Split a zip file with a fake id related video in it and send it in an email and maybe put the two halves in the same folder and call the folder email attatchments
+	1. also steg the file inside the zip folder before splitting to be extra mean - maybe use steg somewhere else
 
 
 #### Thunderbird 
 4. Have an email conversation with a colleague about transferring files
-	1. Say "there's a cool video/image that I want you to see, but its too big o fit into one email"
+	1. Say "there's a cool video/image that I want you to see, but its too big to fit into one email"
 	2. Then have the colleague reply with, oh you can use a file splitter
 	3. reply with "theres something special inside the video too, cant say too much but you get what I mean"
 		1. this links with the search for steganography
 5. Have another email convo with an acomplice talking about how to fide stuff - veracrypt/truecrypt
+6. have some conversation about different types of cards and what year the current 18 year olds were born in
 
 #### Vera/truecrypt
 6. Create a volume and put a load of fake bunny id images in it.
@@ -75,6 +77,9 @@
 	-   video
 	-   images
 -   REsearch into veracrypt vs truecrypt
+-   How to hide bigger files inside an image
+-   hiding data in compressed files
+-   
 
 ------
 ### Side Quests

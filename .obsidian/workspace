@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Shit to do/Shit do do.md",
-            "mode": "source"
+            "file": "notes/FCP/Coursework/The Real story.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Shit to do/Shit do do.md",
+                "file": "notes/FCP/Coursework/The Real story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
+    "notes/FCP/Coursework/The Real story.md",
+    "notes/SMP/Week 0.md",
     "notes/Shit to do/Shit do do.md",
     "notes/SMP/Title page - SMP.md",
-    "notes/FCP/Coursework/The Real story.md",
     "notes/FCP/Coursework/Stats.md",
     "notes/FCP/Coursework/The story.md",
     "notes/FCP/Coursework/Useful links.md",
     "notes/DSP/Title page - DSP.md",
     "notes/DSP/Untitled.md",
-    "notes/FCP/Coursework/Thinking notes.md",
-    "notes/FCP/Lecture 1 lindsey.md"
+    "notes/FCP/Coursework/Thinking notes.md"
   ]
 }

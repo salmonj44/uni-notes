@@ -51,7 +51,7 @@
 5. Have another email convo with an acomplice talking about how to fide stuff - veracrypt/truecrypt
 6. have some conversation about different types of cards and what year the current 18 year olds were born in
 
-#### Skype
+#### Skype OR MUMBLE OR EASIER TO ANALYSE PROGRAM
 - Use skype to message the kids
 
 #### Vera/truecrypt

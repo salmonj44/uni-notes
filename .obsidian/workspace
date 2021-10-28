@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Cryptography/Week 3 - Hamming codes.md",
+            "file": "notes/EPICDM/Week 3 - ethics of AI.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Cryptography/Week 3 - Hamming codes.md",
+                "file": "notes/EPICDM/Week 3 - ethics of AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
-    "notes/Cryptography/Week 3 - Hamming codes.md",
-    "notes/FCP/Coursework/Email passwords.md",
+    "notes/EPICDM/Week 3 - ethics of AI.md",
+    "notes/Shit to do/Shit do do.md",
+    "notes/FCP/Coursework/Passowrds.md",
     "notes/FCP/Coursework/The Real story.md",
+    "notes/FCP/Coursework/Stats.md",
+    "notes/Cryptography/Week 3 - Hamming codes.md",
     "notes/FCP/Coursework/The story.md",
     "notes/SMP/Week 0.md",
-    "notes/Shit to do/Shit do do.md",
     "notes/SMP/Title page - SMP.md",
-    "notes/FCP/Coursework/Stats.md",
-    "notes/FCP/Coursework/Useful links.md",
-    "notes/DSP/Title page - DSP.md"
+    "notes/FCP/Coursework/Useful links.md"
   ]
 }

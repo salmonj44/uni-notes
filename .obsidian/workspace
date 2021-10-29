@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/EPICDM/Week 3 - ethics of AI.md",
+            "file": "notes/EPICDM/Online lecture week 4 (guest speaker).md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff596db576b6a13c",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/EPICDM/Week 3 - ethics of AI.md",
+                "file": "notes/EPICDM/Online lecture week 4 (guest speaker).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
+    "notes/EPICDM/Online lecture week 4 (guest speaker).md",
+    "notes/FCP/Coursework/Passowrds.md",
+    "notes/EPICDM/Week 0, module intro.md",
+    "notes/EPICDM/Week 0 Seminar 1.md",
+    "notes/EPICDM/Title page - EPICDM.md",
+    "notes/EPICDM/Glossary of terms.md",
     "notes/EPICDM/Week 3 - ethics of AI.md",
     "notes/Shit to do/Shit do do.md",
-    "notes/FCP/Coursework/Passowrds.md",
     "notes/FCP/Coursework/The Real story.md",
-    "notes/FCP/Coursework/Stats.md",
-    "notes/Cryptography/Week 3 - Hamming codes.md",
-    "notes/FCP/Coursework/The story.md",
-    "notes/SMP/Week 0.md",
-    "notes/SMP/Title page - SMP.md",
-    "notes/FCP/Coursework/Useful links.md"
+    "notes/FCP/Coursework/Stats.md"
   ]
 }

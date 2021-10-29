@@ -4,11 +4,14 @@ james_brookewood@outlook.com: Bkki9iVsM7RM2cg
 
 
 ## ClientList Spreadsheet
+- taRf8mGM2uYr3a6qEfum (contained inside registry)
 
-taRf8mGM2uYr3a6qEfum
+## Attempt_1.tga (stegged)
+- tFng5RAtzgqwhbBLDAJu (contained inside mbox file)
 
-## Attempt_1.xcf (stegged)
 
+## RabbitsFoot (inside programData)
+- dZ6YSC9kTkVZHRgNa9gH (contained inside Attempt_1.tga)
 
 -----
 ## Draft emails

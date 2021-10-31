@@ -7,7 +7,7 @@ james_brookewood@outlook.com: Bkki9iVsM7RM2cg
 - taRf8mGM2uYr3a6qEfum (contained inside registry)
 
 ## Attempt_1.tga (stegged)
-- tFng5RAtzgqwhbBLDAJu (contained inside mbox file)
+- tFng5RAtzgqwhbBLDAJu (contained inside mumble log file)
 
 
 ## RabbitsFoot (inside programData)

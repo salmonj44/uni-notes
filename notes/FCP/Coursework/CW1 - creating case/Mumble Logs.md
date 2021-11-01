@@ -3,7 +3,7 @@
 
 to accomplice - send password for attempt_1.tga and say what its for
 
-# Actual log
+# Actual log 
 
 ## Hidden stuff
 ---

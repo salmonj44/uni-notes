@@ -59,7 +59,7 @@ Enjoy your stay!
 [13:46:10] (Channel) Peter_Rabbit: yeah, what type of prices are we looking at?
 [13:53:17] To Root: should be about 10-20 each depending on how quickly you want it.
 [13:53:44] (Channel) Peter_Rabbit: oh ok yeah cool, how do i give you my photo?
-[13:55:45] (Channel) Peter_Rabbit: email me at fayekeide@gmail.com
+[13:55:45] To Root: email me at fayekeide@gmail.com
 [13:56:17] (Channel) Peter_Rabbit: ok, i will do, is payment by cash?
 [13:56:26] To Root: yeah, ill do you an invoice too
 	

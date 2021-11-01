@@ -45,3 +45,21 @@ Enjoy your stay!
 <W>2021-10-29 17:04:15.395 1 => Server: TCP Listen on 0.0.0.0:64738 failed: The bound address is already in use
 <W>2021-10-29 17:04:15.402 1 => Stopped
 	
+------
+
+[13:30:02] Welcome to Mumble.
+[13:30:06] Connecting to server 127.0.0.1.
+[13:30:06] Connected.
+[13:30:06] Welcome message: 
+Welcome to this server running Murmur.
+Enjoy your stay!
+
+
+[13:45:56] To Root: Hi, are you here for the identification "merchandise"?
+[13:46:10] (Channel) Peter_Rabbit: yeah, what type of prices are we looking at?
+[13:53:17] To Root: should be about 10-20 each depending on how quickly you want it.
+[13:53:44] (Channel) Peter_Rabbit: oh ok yeah cool, how do i give you my photo?
+[13:55:45] (Channel) Peter_Rabbit: email me at fayekeide@gmail.com
+[13:56:17] (Channel) Peter_Rabbit: ok, i will do, is payment by cash?
+[13:56:26] To Root: yeah, ill do you an invoice too
+	

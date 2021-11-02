@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
+            "file": "notes/SDAV/Feature Pre-processing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
+                "file": "notes/SDAV/Feature Pre-processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
+    "notes/SDAV/Feature Pre-processing.md",
+    "notes/SDAV/Analytical workflows.md",
+    "notes/SDAV/Title page - SDAV.md",
     "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
     "notes/FCP/Coursework/Passowrds.md",
     "notes/FCP/Coursework/Stats.md",
     "notes/FCP/Coursework/The Real story.md",
     "notes/FCP/Coursework/The story.md",
     "notes/FCP/Coursework/Thinking notes.md",
-    "notes/FCP/Coursework/Useful links.md",
-    "notes/EPICDM/Online lecture week 4 (guest speaker).md",
-    "notes/EPICDM/Week 0, module intro.md",
-    "notes/EPICDM/Week 0 Seminar 1.md"
+    "notes/FCP/Coursework/Useful links.md"
   ]
 }

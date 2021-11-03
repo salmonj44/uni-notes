@@ -63,3 +63,9 @@ Enjoy your stay!
 [13:56:17] (Channel) Peter_Rabbit: ok, i will do, is payment by cash?
 [13:56:26] To Root: yeah, ill do you an invoice too
 	
+------
+	
+[21:51:56] Princess_fluffyTail connected and entered channel.
+[21:54:52] (Channel) Princess_fluffyTail: is this the place you wanted me to talk to you about the thing?
+[22:09:35] To Root: yeah, ill email you the finished product and an invoice and you can pay my friend in person.. you can set up the date with them
+[22:09:57] (Channel) Princess_fluffyTail: ok... thank you :3

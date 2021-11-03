@@ -1,7 +1,7 @@
 ## Email Creds
 
 james_brookewood@outlook.com: Bkki9iVsM7RM2cg
-
+dapper_mcbunbun@outlook.com: 58CyYFSsMf8MDRh
 
 ## ClientList Spreadsheet
 - taRf8mGM2uYr3a6qEfum (contained inside registry)

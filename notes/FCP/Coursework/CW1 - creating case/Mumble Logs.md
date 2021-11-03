@@ -1,4 +1,4 @@
-#Coursework #FCP 
+ #Coursework #FCP 
 # Conversation notes
 
 to accomplice - send password for attempt_1.tga and say what its for
@@ -53,6 +53,7 @@ Enjoy your stay!
 [13:30:06] Welcome message: 
 Welcome to this server running Murmur.
 Enjoy your stay!
+
 
 
 [13:45:56] To Root: Hi, are you here for the identification "merchandise"?

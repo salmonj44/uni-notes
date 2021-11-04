@@ -70,3 +70,23 @@ Enjoy your stay!
 [21:54:52] (Channel) Princess_fluffyTail: is this the place you wanted me to talk to you about the thing?
 [22:09:35] To Root: yeah, ill email you the finished product and an invoice and you can pay my friend in person.. you can set up the date with them
 [22:09:57] (Channel) Princess_fluffyTail: ok... thank you :3
+	
+-------
+
+
+[00:26:41] Welcome message: 
+Welcome to this server running Murmur.
+Enjoy your stay!
+
+
+[00:27:10] Dapper_McBunBun connected and entered channel.
+[00:27:34] (Channel) Dapper_McBunBun: hi, id like to order one of your products...
+[00:27:51] To Root: yes, thats ok... does twenty pounds sound right?
+[00:28:07] (Channel) Dapper_McBunBun: yeah, thats ok, how do i send my picture
+[00:28:11] (Channel) Dapper_McBunBun: and how do i pay
+[00:28:33] To Root: you pay by cash to the person who gave you this address... send me an email with your picture ONLY at fayekeide@gmail.com
+[00:28:41] (Channel) Dapper_McBunBun: ok cool, thanks
+[00:28:53] To Root: also send me your real DOB and name
+[00:28:57] (Channel) Dapper_McBunBun: K
+[00:30:57] To Root: my DOB is 10.9.2004
+[00:31:09] To Root: my address is Princes Wharf, Wapping Rd, Bristol BS1 4RN

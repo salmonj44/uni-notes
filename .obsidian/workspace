@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
-            "mode": "preview"
+            "file": "notes/EPICDM/week 4.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
+                "file": "notes/EPICDM/week 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
+    "notes/EPICDM/week 4.md",
+    "notes/EPICDM/Week 3 - ethics of AI.md",
+    "notes/Shit to do/Shit do do.md",
+    "notes/FCP/Coursework/CW1 - creating case/Passowrds.md",
     "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
     "notes/FCP/Coursework/CW1 - creating case/The story.md",
     "notes/FCP/Coursework/CW1 - creating case/Useful links.md",
-    "notes/FCP/Coursework/CW1 - creating case/Passowrds.md",
     "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
     "notes/FCP/Coursework/CW1 - creating case/Thinking notes.md",
-    "notes/Cryptography/Week 4 - classical cipers and cryptogrphic hashing.md",
-    "notes/SDAV/Feature Pre-processing.md",
-    "notes/SDAV/Analytical workflows.md",
-    "notes/SDAV/Title page - SDAV.md"
+    "notes/Cryptography/Week 4 - classical cipers and cryptogrphic hashing.md"
   ]
 }

@@ -13,6 +13,9 @@ dapper_mcbunbun@outlook.com: 58CyYFSsMf8MDRh
 ## RabbitsFoot (inside programData)
 - dZ6YSC9kTkVZHRgNa9gH (contained inside Attempt_1.tga)
 
+## Mumble.log (inside mumble folder in pfx86)
+- Vigenère cypher with key: BUNNY and alphabet abcdefghijklmnopqrstuvwxyz
+
 -----
 ## Draft emails
 

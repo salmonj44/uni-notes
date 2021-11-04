@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
+            "file": "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "efi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
+                "file": "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "b7817a161f149903",
   "lastOpenFiles": [
-    "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
     "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
-    "notes/FCP/Coursework/CW1 - creating case/Thinking notes.md",
     "notes/FCP/Coursework/CW1 - creating case/The story.md",
+    "notes/FCP/Coursework/CW1 - creating case/Useful links.md",
     "notes/FCP/Coursework/CW1 - creating case/Passowrds.md",
+    "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
+    "notes/FCP/Coursework/CW1 - creating case/Thinking notes.md",
     "notes/Cryptography/Week 4 - classical cipers and cryptogrphic hashing.md",
     "notes/SDAV/Feature Pre-processing.md",
     "notes/SDAV/Analytical workflows.md",
-    "notes/SDAV/Title page - SDAV.md",
-    "notes/FCP/Coursework/Passowrds.md"
+    "notes/SDAV/Title page - SDAV.md"
   ]
 }

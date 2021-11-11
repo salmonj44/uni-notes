@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.01219177246094
+    "width": 300
   },
   "right": {
     "id": "ff596db576b6a13c",
@@ -89,14 +89,14 @@
   "active": "b7817a161f149903",
   "lastOpenFiles": [
     "notes/FCP/Coursework/CW1 - creating case/Passowrds.md",
-    "notes/EPICDM/week 4.md",
-    "notes/EPICDM/Week 3 - ethics of AI.md",
-    "notes/Shit to do/Shit do do.md",
-    "notes/FCP/Coursework/CW1 - creating case/The Real story.md",
-    "notes/FCP/Coursework/CW1 - creating case/The story.md",
-    "notes/FCP/Coursework/CW1 - creating case/Useful links.md",
+    "notes/FCP/Coursework/CW1 - creating case/Stats.md",
     "notes/FCP/Coursework/CW1 - creating case/Mumble Logs.md",
-    "notes/FCP/Coursework/CW1 - creating case/Thinking notes.md",
-    "notes/Cryptography/Week 4 - classical cipers and cryptogrphic hashing.md"
+    "notes/FCP/Coursework/Passowrds.md",
+    "notes/FCP/Coursework/Stats.md",
+    "notes/FCP/Coursework/The Real story.md",
+    "notes/FCP/Coursework/The story.md",
+    "notes/FCP/Coursework/Thinking notes.md",
+    "notes/FCP/Coursework/Useful links.md",
+    "notes/EPICDM/Online lecture week 4 (guest speaker).md"
   ]
 }

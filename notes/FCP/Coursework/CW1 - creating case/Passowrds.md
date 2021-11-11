@@ -6,7 +6,7 @@ dapper_mcbunbun@outlook.com: 58CyYFSsMf8MDRh
 ## ClientList Spreadsheet
 - taRf8mGM2uYr3a6qEfum (contained inside registry)
 
-## Attempt_1.tga (stegged)
+## Attempt_1.tga (virgin cipher)
 - tFng5RAtzgqwhbBLDAJu (contained inside mumble log file)
 
 
